@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" fill="none">
+  <defs>
+    <linearGradient id="bg" x1="16" y1="12" x2="244" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#E0E7FF"/>
+      <stop offset="1" stop-color="#C7D2FE"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="56" y1="162" x2="202" y2="256" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#4338CA"/>
+    </linearGradient>
+  </defs>
+  <rect width="256" height="256" rx="128" fill="url(#bg)"/>
+  <path d="M42 256c7-48 42-77 86-77s79 29 86 77H42Z" fill="url(#shirt)"/>
+  <path d="M89 174c8 14 23 23 39 23s31-9 39-23l-10-23H99l-10 23Z" fill="#F1B99A"/>
+  <ellipse cx="128" cy="108" fill="#F4C6A8" rx="54" ry="65"/>
+  <path d="M75 111c-8-43 13-81 54-81 37 0 59 25 55 70-9-5-18-17-23-31-20 16-49 25-86 25v17Z" fill="#43352F"/>
+  <path d="M98 113c5 0 9 4 9 9s-4 9-9 9-9-4-9-9 4-9 9-9Zm60 0c5 0 9 4 9 9s-4 9-9 9-9-4-9-9 4-9 9-9Z" fill="#3F3431"/>
+  <path d="M113 151c9 7 21 7 30 0" stroke="#B76E63" stroke-linecap="round" stroke-width="5"/>
+</svg>
